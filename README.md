@@ -1,4 +1,5 @@
-#Predicting Hospital Readmission for Patients with Diabetics
+# Predicting Hospital Readmission for Patients with Diabetics
+
 A hospital readmission is when a patient who is discharged from the hospital, gets re-admitted again within a certain period of time.
 Hospital readmission rates for certain conditions are now considered an indicator of hospital quality, and also affect the cost of care adversely.
 For this reason, Centers for Medicare & Medicaid Services established the Hospital Readmissions Reduction Program which aims to improve quality of 
